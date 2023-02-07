@@ -6,4 +6,5 @@
 6. Git Diff
 7. Git clear
 8. Git echo
+9. Git clone
 
