@@ -7,4 +7,5 @@
 7. Git clear
 8. Git echo
 9. Git clone
+10.Git checkout -b 
 
