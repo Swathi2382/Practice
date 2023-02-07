@@ -1,0 +1,8 @@
+1. Git Status
+2. Git init
+3. Git add . or <File name>
+4. Git Commit - m "meaningful message or latest changes made"
+5. Git Push
+6. Git Diff
+7. Git clear
+
