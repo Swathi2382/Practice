@@ -8,4 +8,4 @@
 8. Git echo
 9. Git clone
 10.Git checkout -b 
-
+11 cd - change directory
