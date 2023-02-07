@@ -5,4 +5,5 @@
 5. Git Push
 6. Git Diff
 7. Git clear
+8. Git echo
 
